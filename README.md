@@ -2,7 +2,7 @@
 Repositório dedicado ao desafio de programação Capgemini 
 
 ## Como executar
-O código pode ser execudado com qualquer software que rode python 3.0 ou superior.
+O código pode ser execudado com qualquer software que rode python, foi usado python 3.9.
 
 
 ## Questão 1
